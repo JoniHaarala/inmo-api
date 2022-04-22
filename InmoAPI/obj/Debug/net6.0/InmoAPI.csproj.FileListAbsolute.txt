@@ -1,0 +1,7 @@
+C:\Users\joni\Documents\Visual Studio 2022\proyects\InmoAPI\InmoAPI\obj\Debug\net6.0\InmoAPI.csproj.AssemblyReference.cache
+C:\Users\joni\Documents\Visual Studio 2022\proyects\InmoAPI\InmoAPI\obj\Debug\net6.0\InmoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joni\Documents\Visual Studio 2022\proyects\InmoAPI\InmoAPI\obj\Debug\net6.0\InmoAPI.AssemblyInfoInputs.cache
+C:\Users\joni\Documents\Visual Studio 2022\proyects\InmoAPI\InmoAPI\obj\Debug\net6.0\InmoAPI.AssemblyInfo.cs
+C:\Users\joni\Documents\Visual Studio 2022\proyects\InmoAPI\InmoAPI\obj\Debug\net6.0\InmoAPI.csproj.CoreCompileInputs.cache
+C:\Users\joni\Documents\Visual Studio 2022\proyects\InmoAPI\InmoAPI\obj\Debug\net6.0\InmoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joni\Documents\Visual Studio 2022\proyects\InmoAPI\InmoAPI\obj\Debug\net6.0\InmoAPI.MvcApplicationPartsAssemblyInfo.cache
