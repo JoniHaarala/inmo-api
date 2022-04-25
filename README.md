@@ -24,14 +24,14 @@ Please adhere to this project's `code of conduct`.
 
 #### Its free to use?
 
-Answer: YES. You can use this API for any kind of personal proyect or to practice api request. At the moment a token is not required to access the relevant information, but maybe for future updates :) 
+Answer: YES. You can use this API for any kind of personal proyect or to practice api request. At the moment a token is not required to access the relevant information, but ho knows if it neads in future updates if all runs very well :) 
 
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at jonatan.haaralaorosco@gmail.com
+This is my first deployed API i made, so if you have any feedback or sugestion for the API documentation or have a problem, please reach out to us at jonatan.haaralaorosco@gmail.com
 
 
 ## License
